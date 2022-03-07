@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to the JudoJack Family Page
 
-You can use the [editor on GitHub](https://github.com/judojack/judojack.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Our family will be using this to learn the basics of coding. There won't be much content here until ~2025. Stay tuned! -JJ
 
 ### Markdown
 
